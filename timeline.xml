@@ -1,0 +1,863 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<statuses type="array">
+<status>
+  <created_at>Sun Feb 28 19:57:34 +0000 2010</created_at>
+  <id>9789226892</id>
+  <text>The Art of Wine Sharing http://bit.ly/9mAWpF</text>
+  <source>&lt;a href=&quot;http://twitterfeed.com&quot; rel=&quot;nofollow&quot;&gt;twitterfeed&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>27870981</id>
+    <name>The Wine Diary</name>
+    <screen_name>thewinediary</screen_name>
+    <location>Napa, Ca</location>
+    <description>Lover of wine, food, and sensual pleasures. I've devoted my life to the vine and I want to share.</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/116086828/rayheadshot_normal.JPG</profile_image_url>
+    <url>http://bit.ly/thewinediary</url>
+    <protected>false</protected>
+    <followers_count>7293</followers_count>
+    <profile_background_color>9ae4e8</profile_background_color>
+    <profile_text_color>c00707</profile_text_color>
+    <profile_link_color>000000</profile_link_color>
+    <profile_sidebar_fill_color>d0d2d2</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>cc0000</profile_sidebar_border_color>
+    <friends_count>8011</friends_count>
+    <created_at>Tue Mar 31 13:40:19 +0000 2009</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>-28800</utc_offset>
+    <time_zone>Pacific Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://a1.twimg.com/profile_background_images/7137222/twitBGwjreoj.jpg</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>true</following>
+    <statuses_count>14033</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Sun Feb 28 19:57:02 +0000 2010</created_at>
+  <id>9789208860</id>
+  <text>Home of Mitchell Gold + Bob Williams http://bit.ly/aARhHO furniture home lighting home.accessories</text>
+  <source>&lt;a href=&quot;http://recentdelicious.heroku.com&quot; rel=&quot;nofollow&quot;&gt;Recent Delicious&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>39541081</id>
+    <name>Delicious Over 50</name>
+    <screen_name>delicious50</screen_name>
+    <location>world wide web</location>
+    <description>Most recent Delicious bookmarks with 50 or more bookmarkers</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/208753530/delicious-256x256_normal.png</profile_image_url>
+    <url>http://delicious.com/recent/?min=50</url>
+    <protected>false</protected>
+    <followers_count>15547</followers_count>
+    <profile_background_color>9ae4e8</profile_background_color>
+    <profile_text_color>000000</profile_text_color>
+    <profile_link_color>0000ff</profile_link_color>
+    <profile_sidebar_fill_color>e0ff92</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>87bc44</profile_sidebar_border_color>
+    <friends_count>2</friends_count>
+    <created_at>Tue May 12 16:55:07 +0000 2009</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>-25200</utc_offset>
+    <time_zone>Mountain Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1267135446/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>true</following>
+    <statuses_count>250427</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Sun Feb 28 19:56:38 +0000 2010</created_at>
+  <id>9789195330</id>
+  <text>reverb for you - www.reverbnation.com/nuderiot - http://iLike.com/t/cE40 http://ff.im/-gI3CR</text>
+  <source>&lt;a href=&quot;http://friendfeed.com&quot; rel=&quot;nofollow&quot;&gt;FriendFeed&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>20761013</id>
+    <name>NUDE</name>
+    <screen_name>NUDEriot</screen_name>
+    <location>iPhone: 49.995071,8.685623</location>
+    <description>http://www.myspace.com/nuderiot</description>
+    <profile_image_url>http://a3.twimg.com/profile_images/686968045/APPbuttonWhite2_normal.jpg</profile_image_url>
+    <url>http://www.reverbnation.com/nuderiot</url>
+    <protected>false</protected>
+    <followers_count>955</followers_count>
+    <profile_background_color>030303</profile_background_color>
+    <profile_text_color>050505</profile_text_color>
+    <profile_link_color>751009</profile_link_color>
+    <profile_sidebar_fill_color>ffffff</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>a6a3a3</profile_sidebar_border_color>
+    <friends_count>1995</friends_count>
+    <created_at>Fri Feb 13 10:21:06 +0000 2009</created_at>
+    <favourites_count>25</favourites_count>
+    <utc_offset>3600</utc_offset>
+    <time_zone>Berlin</time_zone>
+    <profile_background_image_url>http://a1.twimg.com/profile_background_images/74022124/back_big_web_4.jpg</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>7495</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Sun Feb 28 19:56:30 +0000 2010</created_at>
+  <id>9789191164</id>
+  <text>I've been putting off drafting my election address for weeks but @BevaniteEllie has inspired me. Special section on digital required!</text>
+  <source>web</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>14190551</id>
+    <name>tom_watson</name>
+    <screen_name>tom_watson</screen_name>
+    <location>London</location>
+    <description>Busy dad, disorganised politician, lover of film and video games.</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/563181762/tomwithbeard_normal.jpg</profile_image_url>
+    <url>http://www.tom-watson.co.uk</url>
+    <protected>false</protected>
+    <followers_count>7700</followers_count>
+    <profile_background_color>9ae4e8</profile_background_color>
+    <profile_text_color>000000</profile_text_color>
+    <profile_link_color>0000ff</profile_link_color>
+    <profile_sidebar_fill_color>e0ff92</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>87bc44</profile_sidebar_border_color>
+    <friends_count>1987</friends_count>
+    <created_at>Fri Mar 21 10:35:39 +0000 2008</created_at>
+    <favourites_count>44</favourites_count>
+    <utc_offset>12600</utc_offset>
+    <time_zone>Tehran</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/2829227/scooter.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <notifications>false</notifications>
+    <geo_enabled>true</geo_enabled>
+    <verified>false</verified>
+    <following>true</following>
+    <statuses_count>5823</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Sun Feb 28 19:56:23 +0000 2010</created_at>
+  <id>9789187001</id>
+  <text>reverb for you - www.reverbnation.com/nuderiot - http://iLike.com/t/cE40</text>
+  <source>&lt;a href=&quot;http://www.iLike.com&quot; rel=&quot;nofollow&quot;&gt;iLike&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>20761013</id>
+    <name>NUDE</name>
+    <screen_name>NUDEriot</screen_name>
+    <location>iPhone: 49.995071,8.685623</location>
+    <description>http://www.myspace.com/nuderiot</description>
+    <profile_image_url>http://a3.twimg.com/profile_images/686968045/APPbuttonWhite2_normal.jpg</profile_image_url>
+    <url>http://www.reverbnation.com/nuderiot</url>
+    <protected>false</protected>
+    <followers_count>955</followers_count>
+    <profile_background_color>030303</profile_background_color>
+    <profile_text_color>050505</profile_text_color>
+    <profile_link_color>751009</profile_link_color>
+    <profile_sidebar_fill_color>ffffff</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>a6a3a3</profile_sidebar_border_color>
+    <friends_count>1995</friends_count>
+    <created_at>Fri Feb 13 10:21:06 +0000 2009</created_at>
+    <favourites_count>25</favourites_count>
+    <utc_offset>3600</utc_offset>
+    <time_zone>Berlin</time_zone>
+    <profile_background_image_url>http://a1.twimg.com/profile_background_images/74022124/back_big_web_4.jpg</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>true</following>
+    <statuses_count>7495</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Sun Feb 28 19:56:21 +0000 2010</created_at>
+  <id>9789185986</id>
+  <text>RUBBISH APP: Michael Quach presents&#8230; Waterfall Pics http://bit.ly/cRo4eW</text>
+  <source>&lt;a href=&quot;http://twitterfeed.com&quot; rel=&quot;nofollow&quot;&gt;twitterfeed&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>34656482</id>
+    <name>Planet Android</name>
+    <screen_name>droidfeed</screen_name>
+    <location></location>
+    <description></description>
+    <profile_image_url>http://a1.twimg.com/profile_images/186263936/robot228_normal.jpg</profile_image_url>
+    <url></url>
+    <protected>false</protected>
+    <followers_count>492</followers_count>
+    <profile_background_color>9ae4e8</profile_background_color>
+    <profile_text_color>000000</profile_text_color>
+    <profile_link_color>0000ff</profile_link_color>
+    <profile_sidebar_fill_color>e0ff92</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>87bc44</profile_sidebar_border_color>
+    <friends_count>1</friends_count>
+    <created_at>Thu Apr 23 16:27:00 +0000 2009</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset></utc_offset>
+    <time_zone></time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1266450641/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>true</following>
+    <statuses_count>4070</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Sun Feb 28 19:56:13 +0000 2010</created_at>
+  <id>9789181385</id>
+  <text>Hey @mashable  Still no timeline here... Only @ replies</text>
+  <source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>35857983</id>
+    <name>Luis Reich</name>
+    <screen_name>Zapote21</screen_name>
+    <location>Tampa, FL</location>
+    <description>Love my family, Android, T-Mobile, my rooted MT3G, the Mets, Camaros, and my awesome job..</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/648196152/twitterProfilePhoto_normal.jpg</profile_image_url>
+    <url>http://www.zapote21.com</url>
+    <protected>false</protected>
+    <followers_count>457</followers_count>
+    <profile_background_color>000000</profile_background_color>
+    <profile_text_color>000000</profile_text_color>
+    <profile_link_color>0f69bd</profile_link_color>
+    <profile_sidebar_fill_color>EC7D2E</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>000000</profile_sidebar_border_color>
+    <friends_count>300</friends_count>
+    <created_at>Mon Apr 27 20:55:20 +0000 2009</created_at>
+    <favourites_count>2</favourites_count>
+    <utc_offset>-18000</utc_offset>
+    <time_zone>Eastern Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://a1.twimg.com/profile_background_images/29818788/nvnewyorkmets.br.jpg</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>false</following>
+    <statuses_count>6374</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Sun Feb 28 19:55:49 +0000 2010</created_at>
+  <id>9789168039</id>
+  <text>Toddla t bamboo man dubplate  http://tweetphoto.com/12846024</text>
+  <source>&lt;a href=&quot;http://www.tweetdeck.com/&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>19868061</id>
+    <name>TODDLA T</name>
+    <screen_name>TODDLAT</screen_name>
+    <location>iPhone: 18.502239,-77.909950</location>
+    <description></description>
+    <profile_image_url>http://a1.twimg.com/profile_images/703666454/gm1_normal.jpg</profile_image_url>
+    <url>http://www.toddlat.com</url>
+    <protected>false</protected>
+    <followers_count>7328</followers_count>
+    <profile_background_color>55b948</profile_background_color>
+    <profile_text_color>091307</profile_text_color>
+    <profile_link_color>FF0000</profile_link_color>
+    <profile_sidebar_fill_color>ffffff</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>55b948</profile_sidebar_border_color>
+    <friends_count>307</friends_count>
+    <created_at>Sun Feb 01 17:52:30 +0000 2009</created_at>
+    <favourites_count>8</favourites_count>
+    <utc_offset></utc_offset>
+    <time_zone></time_zone>
+    <profile_background_image_url>http://a1.twimg.com/profile_background_images/10740172/toddlattwitterbackground.jpg</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>true</following>
+    <statuses_count>8271</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Sun Feb 28 19:55:18 +0000 2010</created_at>
+  <id>9789150274</id>
+  <text>I still haven't even bothered completing my math homewok for tomorrow. Thank fush I have double study period tomorrow morning!</text>
+  <source>&lt;a href=&quot;http://echofon.com/&quot; rel=&quot;nofollow&quot;&gt;Echofon&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>30458720</id>
+    <name>Annie Pritchard</name>
+    <screen_name>annieJpritchard</screen_name>
+    <location>up on cloud nine.</location>
+    <description>pretty and witty, or so i like to think.</description>
+    <profile_image_url>http://a3.twimg.com/profile_images/712391743/19834_477844290503_801385503_11080138_971114_n_normal.jpg</profile_image_url>
+    <url></url>
+    <protected>false</protected>
+    <followers_count>98</followers_count>
+    <profile_background_color>C0DEED</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+    <friends_count>146</friends_count>
+    <created_at>Sat Apr 11 14:51:01 +0000 2009</created_at>
+    <favourites_count>4</favourites_count>
+    <utc_offset>0</utc_offset>
+    <time_zone>London</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1267135446/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>true</following>
+    <statuses_count>1591</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Sun Feb 28 19:55:08 +0000 2010</created_at>
+  <id>9789144381</id>
+  <text>The Ten Most Likely M&amp;amp;A Deals In Online Video - http://tcrn.ch/aCFRmW by</text>
+  <source>&lt;a href=&quot;http://www.bravenewcode.com/wordtwit/&quot; rel=&quot;nofollow&quot;&gt;WordTwit&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>816653</id>
+    <name>TechCrunch</name>
+    <screen_name>TechCrunch</screen_name>
+    <location>Silicon Valley</location>
+    <description>Breaking Technology News And Opinions From TechCrunch</description>
+    <profile_image_url>http://a3.twimg.com/profile_images/115466107/techcrunch_bigger_normal.png</profile_image_url>
+    <url>http://www.techcrunch.com</url>
+    <protected>false</protected>
+    <followers_count>1352730</followers_count>
+    <profile_background_color>9AE4E8</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>DDFFCC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>BDDCAD</profile_sidebar_border_color>
+    <friends_count>696</friends_count>
+    <created_at>Wed Mar 07 01:27:09 +0000 2007</created_at>
+    <favourites_count>29</favourites_count>
+    <utc_offset>-28800</utc_offset>
+    <time_zone>Pacific Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://a1.twimg.com/profile_background_images/42796644/techcrunch_twitter_bg_5.png</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>false</following>
+    <statuses_count>14948</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Sun Feb 28 19:54:20 +0000 2010</created_at>
+  <id>9789118004</id>
+  <text>RT @morganpage: I just picked 20 winners for the @soundcloud jukebox posting contest. If you won, send your address! http://bit.ly/5p5Ffr</text>
+  <source>&lt;a href=&quot;http://www.atebits.com/&quot; rel=&quot;nofollow&quot;&gt;Tweetie&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>5943942</id>
+    <name>SoundCloud</name>
+    <screen_name>SoundCloud</screen_name>
+    <location>Berlin</location>
+    <description>We Move Music (tweeting here: @David &amp; @haynes_dave)</description>
+    <profile_image_url>http://a3.twimg.com/profile_images/54608829/sc-logo-no-text_normal.png</profile_image_url>
+    <url>http://soundcloud.com/</url>
+    <protected>false</protected>
+    <followers_count>17633</followers_count>
+    <profile_background_color>FF7700</profile_background_color>
+    <profile_text_color>5D5D5D</profile_text_color>
+    <profile_link_color>2782C6</profile_link_color>
+    <profile_sidebar_fill_color>DCDCDC</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>5D5D5D</profile_sidebar_border_color>
+    <friends_count>18931</friends_count>
+    <created_at>Thu May 10 23:53:37 +0000 2007</created_at>
+    <favourites_count>4</favourites_count>
+    <utc_offset>3600</utc_offset>
+    <time_zone>Berlin</time_zone>
+    <profile_background_image_url>http://a1.twimg.com/profile_background_images/2561476/sc-logo-no-text.png</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>false</following>
+    <statuses_count>1455</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Sun Feb 28 19:53:49 +0000 2010</created_at>
+  <id>9789100052</id>
+  <text>How sucky little Anakin turns into awesome Vader can only be explained by schizophrenia.</text>
+  <source>&lt;a href=&quot;http://twitterrific.com&quot; rel=&quot;nofollow&quot;&gt;Twitterrific&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>77675608</id>
+    <name>kom-diddly-omick</name>
+    <screen_name>jpkv2</screen_name>
+    <location>In ur base, reading ur comics</location>
+    <description>iPhone developer, internet TV broadcaster. Infrequent gamer, full-time mega-nerd.</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/453687202/Mario_vs_Zombie_normal.jpg</profile_image_url>
+    <url>http://www.codefurious.com/staytuned/</url>
+    <protected>false</protected>
+    <followers_count>312</followers_count>
+    <profile_background_color>9ae4e8</profile_background_color>
+    <profile_text_color>000000</profile_text_color>
+    <profile_link_color>0000ff</profile_link_color>
+    <profile_sidebar_fill_color>e0ff92</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>87bc44</profile_sidebar_border_color>
+    <friends_count>561</friends_count>
+    <created_at>Sun Sep 27 06:13:32 +0000 2009</created_at>
+    <favourites_count>1</favourites_count>
+    <utc_offset>-25200</utc_offset>
+    <time_zone>Mountain Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1267135446/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>true</following>
+    <statuses_count>2451</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Sun Feb 28 19:53:10 +0000 2010</created_at>
+  <id>9789078497</id>
+  <text>RT @TEDxWarsaw: RT @StefanBielau: Anyone from #Germany attending #TEDxWarsaw next Friday? | (Stefan - Check with Hodg http://bit.ly/9fEBtU )</text>
+  <source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>19528627</id>
+    <name>Ralph Talmont</name>
+    <screen_name>ralphtalmont</screen_name>
+    <location>Warsaw / Brighton</location>
+    <description>Tweetin' on photography, technology, media, business, travel, ecology, culture, music, life... CEO of Pixengo.com Co-producer of TEDxWarsaw and Ignite Warsaw</description>
+    <profile_image_url>http://a3.twimg.com/profile_images/404328127/zdj_cie_normal.jpg</profile_image_url>
+    <url>http://www.talmont.com</url>
+    <protected>false</protected>
+    <followers_count>4866</followers_count>
+    <profile_background_color>ffffff</profile_background_color>
+    <profile_text_color>383838</profile_text_color>
+    <profile_link_color>1560f9</profile_link_color>
+    <profile_sidebar_fill_color>ffffff</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>ff9838</profile_sidebar_border_color>
+    <friends_count>4647</friends_count>
+    <created_at>Mon Jan 26 10:55:56 +0000 2009</created_at>
+    <favourites_count>48</favourites_count>
+    <utc_offset>3600</utc_offset>
+    <time_zone>Warsaw</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/62994843/Twitter_background_2010.jpg</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>false</following>
+    <statuses_count>3279</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Sun Feb 28 19:52:57 +0000 2010</created_at>
+  <id>9789071161</id>
+  <text>Eating some of @roobottom's remaining Chicken Supreme (emphasis on supreme).</text>
+  <source>&lt;a href=&quot;http://www.atebits.com/&quot; rel=&quot;nofollow&quot;&gt;Tweetie&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>12582</id>
+    <name>Paul Lloyd</name>
+    <screen_name>paulrobertlloyd</screen_name>
+    <location>Littlehampton, Sussex</location>
+    <description>Professional curmudgeon</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/300625528/Avatar_2009_normal.png</profile_image_url>
+    <url>http://paulrobertlloyd.com/</url>
+    <protected>false</protected>
+    <followers_count>366</followers_count>
+    <profile_background_color>C0DEED</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+    <friends_count>111</friends_count>
+    <created_at>Wed Nov 15 19:27:46 +0000 2006</created_at>
+    <favourites_count>392</favourites_count>
+    <utc_offset>-28800</utc_offset>
+    <time_zone>Pacific Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1267135446/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications>false</notifications>
+    <geo_enabled>true</geo_enabled>
+    <verified>false</verified>
+    <following>false</following>
+    <statuses_count>5464</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Sun Feb 28 19:52:40 +0000 2010</created_at>
+  <id>9789062039</id>
+  <text>Before mid-week, @heyamberrae will be living in New York City!  Holy damn!</text>
+  <source>&lt;a href=&quot;http://www.tweetdeck.com&quot; rel=&quot;nofollow&quot;&gt;TweetDeck&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>11009852</id>
+    <name>Ben Parr</name>
+    <screen_name>benparr</screen_name>
+    <location>San Francisco/Silicon Valley</location>
+    <description>I'm the Co-Editor of Mashable, &amp; a tech entrepreneur, sci-fi author, and aspiring world changer. What I tweet: life lessons, writing, passions, and philosophy.</description>
+    <profile_image_url>http://a3.twimg.com/profile_images/633436531/ben-face-large_normal.jpg</profile_image_url>
+    <url>http://benparr.com</url>
+    <protected>false</protected>
+    <followers_count>14043</followers_count>
+    <profile_background_color>9BE5E9</profile_background_color>
+    <profile_text_color>000000</profile_text_color>
+    <profile_link_color>0000ff</profile_link_color>
+    <profile_sidebar_fill_color>e0ff92</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>87bc44</profile_sidebar_border_color>
+    <friends_count>1222</friends_count>
+    <created_at>Mon Dec 10 04:33:05 +0000 2007</created_at>
+    <favourites_count>13</favourites_count>
+    <utc_offset>-28800</utc_offset>
+    <time_zone>Pacific Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://a3.twimg.com/profile_background_images/45021035/ben-twitter-background-swim_copy.jpg</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications>false</notifications>
+    <geo_enabled>true</geo_enabled>
+    <verified>true</verified>
+    <following>false</following>
+    <statuses_count>7923</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Sun Feb 28 19:52:31 +0000 2010</created_at>
+  <id>9789056916</id>
+  <text>Talk with @johnlsheridan from #linkeddata meetup now on slideshare at http://bit.ly/bGbSbP (especially for @DStuart)</text>
+  <source>&lt;a href=&quot;http://www.atebits.com/&quot; rel=&quot;nofollow&quot;&gt;Tweetie&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>14727078</id>
+    <name>Jeni Tennison</name>
+    <screen_name>JeniT</screen_name>
+    <location>London</location>
+    <description>LOD, PSI, XML, XSLT, XProc, EXSLT, LMNL, DTLL, mum, geek</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/664813206/Jeni6_normal.jpg</profile_image_url>
+    <url>http://www.jenitennison.com/blog/</url>
+    <protected>false</protected>
+    <followers_count>804</followers_count>
+    <profile_background_color>C6E2EE</profile_background_color>
+    <profile_text_color>663B12</profile_text_color>
+    <profile_link_color>1F98C7</profile_link_color>
+    <profile_sidebar_fill_color>DAECF4</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>C6E2EE</profile_sidebar_border_color>
+    <friends_count>281</friends_count>
+    <created_at>Sat May 10 19:18:59 +0000 2008</created_at>
+    <favourites_count>12</favourites_count>
+    <utc_offset>0</utc_offset>
+    <time_zone>London</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1266518313/images/themes/theme2/bg.gif</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>false</following>
+    <statuses_count>2572</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Sun Feb 28 19:52:18 +0000 2010</created_at>
+  <id>9789049916</id>
+  <text>with @rockhardawesome in the house, I need an astonishing number of rechargeable batteries http://goo.gl/wAWT</text>
+  <source>web</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>5637652</id>
+    <name>Jeff Atwood</name>
+    <screen_name>codinghorror</screen_name>
+    <location>Bay Area, CA</location>
+    <description>Is it more interesting to talk about software than it is to develop software?</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/58911850/coding-horror-gravatar-128_normal.png</profile_image_url>
+    <url>http://www.codinghorror.com/blog</url>
+    <protected>false</protected>
+    <followers_count>27755</followers_count>
+    <profile_background_color>fff</profile_background_color>
+    <profile_text_color>383a48</profile_text_color>
+    <profile_link_color>282d58</profile_link_color>
+    <profile_sidebar_fill_color>e0e1f5</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>e0e1f5</profile_sidebar_border_color>
+    <friends_count>58</friends_count>
+    <created_at>Sun Apr 29 20:50:37 +0000 2007</created_at>
+    <favourites_count>136</favourites_count>
+    <utc_offset>-25200</utc_offset>
+    <time_zone>Arizona</time_zone>
+    <profile_background_image_url>http://a1.twimg.com/profile_background_images/623412/hunt-wumpus-bg.png</profile_background_image_url>
+    <profile_background_tile>true</profile_background_tile>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>true</following>
+    <statuses_count>15742</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Sun Feb 28 19:52:10 +0000 2010</created_at>
+  <id>9789045308</id>
+  <text>Canon EOS 450D / Digital Rebel XSi: Digital Photography Review http://bit.ly/aUSYre review art camera reviews photo photography cameras dslr</text>
+  <source>&lt;a href=&quot;http://recentdelicious.heroku.com&quot; rel=&quot;nofollow&quot;&gt;Recent Delicious&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>39541081</id>
+    <name>Delicious Over 50</name>
+    <screen_name>delicious50</screen_name>
+    <location>world wide web</location>
+    <description>Most recent Delicious bookmarks with 50 or more bookmarkers</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/208753530/delicious-256x256_normal.png</profile_image_url>
+    <url>http://delicious.com/recent/?min=50</url>
+    <protected>false</protected>
+    <followers_count>15548</followers_count>
+    <profile_background_color>9ae4e8</profile_background_color>
+    <profile_text_color>000000</profile_text_color>
+    <profile_link_color>0000ff</profile_link_color>
+    <profile_sidebar_fill_color>e0ff92</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>87bc44</profile_sidebar_border_color>
+    <friends_count>2</friends_count>
+    <created_at>Tue May 12 16:55:07 +0000 2009</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>-25200</utc_offset>
+    <time_zone>Mountain Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1267135446/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>true</following>
+    <statuses_count>250426</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Sun Feb 28 19:52:07 +0000 2010</created_at>
+  <id>9789043357</id>
+  <text>&#21021;&#24515;&#32773;&#12364;&#31777;&#21336;&#12395;&#12503;&#12525;&#12387;&#12413;&#12367;&#35352;&#20107;&#12398;&#20869;&#23481;&#12434;&#20181;&#19978;&#12370;&#12427;&#12486;&#12463;&#12491;&#12483;&#12463;*&#12507;&#12540;&#12512;&#12506;&#12540;&#12472;&#12434;&#20316;&#12427;&#20154;&#12398;&#12493;&#227;http://bit.ly/9vXkxJ</text>
+  <source>&lt;a href=&quot;http://recentdelicious.heroku.com&quot; rel=&quot;nofollow&quot;&gt;Recent Delicious&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>39541081</id>
+    <name>Delicious Over 50</name>
+    <screen_name>delicious50</screen_name>
+    <location>world wide web</location>
+    <description>Most recent Delicious bookmarks with 50 or more bookmarkers</description>
+    <profile_image_url>http://a1.twimg.com/profile_images/208753530/delicious-256x256_normal.png</profile_image_url>
+    <url>http://delicious.com/recent/?min=50</url>
+    <protected>false</protected>
+    <followers_count>15548</followers_count>
+    <profile_background_color>9ae4e8</profile_background_color>
+    <profile_text_color>000000</profile_text_color>
+    <profile_link_color>0000ff</profile_link_color>
+    <profile_sidebar_fill_color>e0ff92</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>87bc44</profile_sidebar_border_color>
+    <friends_count>2</friends_count>
+    <created_at>Tue May 12 16:55:07 +0000 2009</created_at>
+    <favourites_count>0</favourites_count>
+    <utc_offset>-25200</utc_offset>
+    <time_zone>Mountain Time (US &amp; Canada)</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1267135446/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications></notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following></following>
+    <statuses_count>250425</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <contributors/>
+</status>
+<status>
+  <created_at>Sun Feb 28 19:52:07 +0000 2010</created_at>
+  <id>9789043205</id>
+  <text>I love you more @olgaibach !</text>
+  <source>&lt;a href=&quot;http://echofon.com/&quot; rel=&quot;nofollow&quot;&gt;Echofon&lt;/a&gt;</source>
+  <truncated>false</truncated>
+  <in_reply_to_status_id></in_reply_to_status_id>
+  <in_reply_to_user_id></in_reply_to_user_id>
+  <favorited>false</favorited>
+  <in_reply_to_screen_name></in_reply_to_screen_name>
+  <user>
+    <id>30458720</id>
+    <name>Annie Pritchard</name>
+    <screen_name>annieJpritchard</screen_name>
+    <location>up on cloud nine.</location>
+    <description>pretty and witty, or so i like to think.</description>
+    <profile_image_url>http://a3.twimg.com/profile_images/712391743/19834_477844290503_801385503_11080138_971114_n_normal.jpg</profile_image_url>
+    <url></url>
+    <protected>false</protected>
+    <followers_count>98</followers_count>
+    <profile_background_color>C0DEED</profile_background_color>
+    <profile_text_color>333333</profile_text_color>
+    <profile_link_color>0084B4</profile_link_color>
+    <profile_sidebar_fill_color>DDEEF6</profile_sidebar_fill_color>
+    <profile_sidebar_border_color>C0DEED</profile_sidebar_border_color>
+    <friends_count>146</friends_count>
+    <created_at>Sat Apr 11 14:51:01 +0000 2009</created_at>
+    <favourites_count>4</favourites_count>
+    <utc_offset>0</utc_offset>
+    <time_zone>London</time_zone>
+    <profile_background_image_url>http://s.twimg.com/a/1267135446/images/themes/theme1/bg.png</profile_background_image_url>
+    <profile_background_tile>false</profile_background_tile>
+    <notifications>false</notifications>
+    <geo_enabled>false</geo_enabled>
+    <verified>false</verified>
+    <following>true</following>
+    <statuses_count>1590</statuses_count>
+    <lang>en</lang>
+    <contributors_enabled>false</contributors_enabled>
+  </user>
+  <geo/>
+  <contributors/>
+</status>
+</statuses>
